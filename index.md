@@ -4,7 +4,7 @@ My favorite things about CS193:
 - It teaches practical skills that I'll need for my other classes
 - It's fun :)
 - It's at 8:30 in the morning
-
+```
 
 ## Welcome to GitHub Pages
 
