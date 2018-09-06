@@ -1,4 +1,4 @@
-#Madison Rosen's first CS193 Lab
+# Madison Rosen's first CS193 Lab
 ```markdown
 My favorite things about CS193:
 - It teaches practical skills that I'll need for my other classes
